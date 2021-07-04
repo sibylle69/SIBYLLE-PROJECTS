@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sibylle69
-- 👀 I’m interested in Engineering and Computer Science
+- 👀 I’m interested in Engineering, Design and Computer Science
 - 🌱 I’m currently learning Design Engineering at Imperial College London
 - 💞️ I’m looking to collaborate on projects that make an impact in the world!
 - 📫 You can reach me via email at sibylle.rerolle19@imperial.ac.uk or via LinkedIn if you click [here](linkedin.com/in/sibylle-rerolle-b539431a2).
